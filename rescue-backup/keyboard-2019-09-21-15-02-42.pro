@@ -1,8 +1,28 @@
-update=2019年09月21日 星期六 15时02分49秒
+update=Sat Sep 21 14:48:39 2019
 version=1
 last_client=kicad
 [general]
 version=1
+[eeschema]
+version=1
+LibDir=lib
+NetFmtName=Pcbnew
+HPGLSpd=20
+HPGLDm=15
+HPGLNum=1
+RptD_X=0
+RptD_Y=100
+RptLab=1
+LabSize=60
+[eeschema/libraries]
+LibName1=power
+LibName2=mx1a-simple
+LibName3=aker
+LibName4=atmega32u4
+LibName5=dtsjw
+LibName6=oupiin_usb
+LibName7=device
+LibName8=conn
 [cvpcb]
 version=1
 NetIExt=net
@@ -256,6 +276,3 @@ uViaDrill=0.127
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
-[eeschema]
-version=1
-LibDir=
